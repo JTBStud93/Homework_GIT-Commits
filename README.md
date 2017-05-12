@@ -72,3 +72,8 @@ Friday, May 26th
 	⁃	Partly Cloudy
 	⁃	High 80 F
 	⁃	Low 48 F
+
+Saturday, May 27th
+	⁃	AVERAGES
+	⁃	High 78 F
+	⁃	Low 48 F
