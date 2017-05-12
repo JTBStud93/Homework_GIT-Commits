@@ -22,3 +22,8 @@ Tuesday May 16th
 	⁃	Mostly Cloudy
 	⁃	High 65 F
 	⁃	Low 41 F
+
+Wednesday, May 17th
+	⁃	Rain
+	⁃	High 52 F
+	⁃	Low 38 F
