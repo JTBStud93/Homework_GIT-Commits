@@ -12,3 +12,8 @@ Sunday, May 14th
 	⁃	Mostly Sunny
 	⁃	High 73 F
 	⁃	Low 46 F
+
+Monday, May 15th
+	⁃	Partly Cloudy
+	⁃	High 69 F
+	⁃	Low 41 F
