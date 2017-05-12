@@ -117,3 +117,8 @@ Sunday, June 4th
 	⁃	AVERAGES
 	⁃	High 80 F
 	⁃	Low 50 F
+
+Monday, June 5th
+	⁃	AVERAGES
+	⁃	High 81 F
+	⁃	Low 50 F
