@@ -127,3 +127,8 @@ Tuesday, June 6th
 	⁃	AVERAGES
 	⁃	High 81 F
 	⁃	Low 50 F
+
+Wednesday, June 7th
+	⁃	AVERAGES
+	⁃	High 82 F
+	⁃	Low 50 F
