@@ -147,3 +147,8 @@ Saturday, June 10th
 	⁃	AVERAGES
 	⁃	High 83 F
 	⁃	Low 51 F
+
+Sunday, June 11th
+	⁃	AVERAGES
+	⁃	High 83 F
+	⁃	Low 51 F
