@@ -142,3 +142,8 @@ Friday, June 9th
 	⁃	AVERAGES
 	⁃	High 82 F
 	⁃	Low 51 F
+
+Saturday, June 10th
+	⁃	AVERAGES
+	⁃	High 83 F
+	⁃	Low 51 F
