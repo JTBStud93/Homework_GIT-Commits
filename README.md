@@ -52,3 +52,8 @@ Monday, May 22nd
 	⁃	Mostly Sunny
 	⁃	High 76 F
 	⁃	Low 47 F
+
+Tuesday, May 23rd
+	⁃	Mostly Sunny
+	⁃	High 78 F
+	⁃	Low 49 F
