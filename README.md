@@ -37,3 +37,8 @@ Friday, May 19th
 	⁃	Partly Cloudy
 	⁃	High 60 F
 	⁃	Low 37 F
+
+Saturday, May 20th
+	⁃	Sunny
+	⁃	High 70 F
+	⁃	Low 42 F
