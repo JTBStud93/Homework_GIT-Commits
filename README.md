@@ -67,3 +67,8 @@ Thursday, May 25th
 	⁃	Mostly Sunny
 	⁃	High 78 F
 	⁃	Low 47 F
+
+Friday, May 26th
+	⁃	Partly Cloudy
+	⁃	High 80 F
+	⁃	Low 48 F
