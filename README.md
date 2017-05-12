@@ -132,3 +132,8 @@ Wednesday, June 7th
 	⁃	AVERAGES
 	⁃	High 82 F
 	⁃	Low 50 F
+
+Thursday, June 8th
+	⁃	AVERAGES
+	⁃	High 82 F
+	⁃	Low 51 F
