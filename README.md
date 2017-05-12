@@ -77,3 +77,8 @@ Saturday, May 27th
 	⁃	AVERAGES
 	⁃	High 78 F
 	⁃	Low 48 F
+
+Sunday, May 28th
+	⁃	AVERAGES
+	⁃	High 78 F
+	⁃	Low 48 F
