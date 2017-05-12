@@ -27,3 +27,8 @@ Wednesday, May 17th
 	⁃	Rain
 	⁃	High 52 F
 	⁃	Low 38 F
+
+Thursday, May 18th
+	⁃	AM Showers
+	⁃	High 53 F
+	⁃	Low 38 F
