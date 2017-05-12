@@ -82,3 +82,8 @@ Sunday, May 28th
 	⁃	AVERAGES
 	⁃	High 78 F
 	⁃	Low 48 F
+
+Monday, May 29th
+	⁃	AVERAGES
+	⁃	High 78 F
+	⁃	Low 48 F
