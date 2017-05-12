@@ -107,3 +107,8 @@ Friday, June 2nd
 	⁃	AVERAGES
 	⁃	High 80 F
 	⁃	Low 49 F
+
+Saturday, June 3rd
+	⁃	AVERAGES
+	⁃	High 80 F
+	⁃	Low 50 F
