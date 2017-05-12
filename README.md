@@ -7,3 +7,8 @@ Saturday, May 13th
 	⁃	Mostly Sunny
 	⁃	High 63 F
 	⁃	Low 38 F
+
+Sunday, May 14th
+	⁃	Mostly Sunny
+	⁃	High 73 F
+	⁃	Low 46 F
