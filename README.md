@@ -42,3 +42,8 @@ Saturday, May 20th
 	⁃	Sunny
 	⁃	High 70 F
 	⁃	Low 42 F
+
+Sunday, May 21st
+	⁃	Mostly Sunny
+	⁃	High 75 F
+	⁃	Low 48 F
