@@ -32,3 +32,8 @@ Thursday, May 18th
 	⁃	AM Showers
 	⁃	High 53 F
 	⁃	Low 38 F
+
+Friday, May 19th
+	⁃	Partly Cloudy
+	⁃	High 60 F
+	⁃	Low 37 F
