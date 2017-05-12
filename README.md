@@ -47,3 +47,8 @@ Sunday, May 21st
 	⁃	Mostly Sunny
 	⁃	High 75 F
 	⁃	Low 48 F
+
+Monday, May 22nd
+	⁃	Mostly Sunny
+	⁃	High 76 F
+	⁃	Low 47 F
