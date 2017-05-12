@@ -17,3 +17,8 @@ Monday, May 15th
 	⁃	Partly Cloudy
 	⁃	High 69 F
 	⁃	Low 41 F
+
+Tuesday May 16th
+	⁃	Mostly Cloudy
+	⁃	High 65 F
+	⁃	Low 41 F
