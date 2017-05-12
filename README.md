@@ -62,3 +62,8 @@ Wednesday, May 24th
 	⁃	Mostly Sunny
 	⁃	High 80 F
 	⁃	Low 49 F
+
+Thursday, May 25th
+	⁃	Mostly Sunny
+	⁃	High 78 F
+	⁃	Low 47 F
