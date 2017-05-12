@@ -98,3 +98,7 @@ Wednesday, May 31st
 	⁃	High 79 F
 	⁃	Low 49 F
 	
+Thursday, June 1st
+	⁃	AVERAGES
+	⁃	High 79 F
+	⁃	Low 49 F
