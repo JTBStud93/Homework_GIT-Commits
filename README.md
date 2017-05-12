@@ -92,3 +92,9 @@ Tuesday, May 30th
 	⁃	AVERAGES
 	⁃	High 79 F
 	⁃	Low 49 F
+
+Wednesday, May 31st
+	⁃	AVERAGES
+	⁃	High 79 F
+	⁃	Low 49 F
+	
