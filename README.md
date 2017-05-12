@@ -102,3 +102,8 @@ Thursday, June 1st
 	⁃	AVERAGES
 	⁃	High 79 F
 	⁃	Low 49 F
+
+Friday, June 2nd
+	⁃	AVERAGES
+	⁃	High 80 F
+	⁃	Low 49 F
